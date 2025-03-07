@@ -9,10 +9,10 @@
 │   ├── server.js          # Node.js backend
 │   ├── data.json          # Stores submitted locations
 │   ├── package.json       # Dependencies
-│── /frontend
-│   ├── index.html         # Main webpage
-│   ├── map.js             # Leaflet map logic
+│── /js
 │   ├── styles.css         # Styling
+├── index.html         # Main webpage
+├── map.js             # Leaflet map logic
 │── README.md
 ```
 
